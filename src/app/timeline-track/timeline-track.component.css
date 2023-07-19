@@ -1,0 +1,26 @@
+.ball{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 3px solid #D1CCCC;
+}
+.timeline-item{
+  border-left-width: 3px;
+  border-left-style: solid;
+}
+.fill-none{
+  background-color: #D1CCCC;
+}
+.fill-green{
+  background-color: #004539;
+}
+.border-green{
+  border-color: #004539;
+}
+.border-none{
+  border-color: #D1CCCC;
+}
+
+
+
+
